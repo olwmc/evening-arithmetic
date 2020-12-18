@@ -210,6 +210,7 @@ function math_eval(math) {
     return evaluate(parse(tokenize(math)))
 }
 
+/* Some rudimentary unit testing */
 eqs = [
         "(2) + (17*2-30) * (5)+2 - (8/2)*4",
         "(((((5)))))",
