@@ -1,6 +1,6 @@
 function tokenize(expr) {
     // Clean up the original expression and split it into characters
-    expr = expr.replace(/ /g, '').split("")
+    expr = expr.replace(/\s/g, '').split("")
 
     // List of tokens to return
     tokens = []
