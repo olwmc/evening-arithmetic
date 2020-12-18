@@ -1,7 +1,7 @@
 # evening-arithmetic
 Challenge to myself to build by first arithmetic expression evaluator. Completed in about 6 hours.
 
-Recursive-descent parser that builds an expression tree and then evaluates using postorder traversal
+Recursive-descent parser that builds an expression tree and then evaluates using postorder traversal.
 
 Demo here https://olwmc.github.io/pages/arithmetic.html
 
